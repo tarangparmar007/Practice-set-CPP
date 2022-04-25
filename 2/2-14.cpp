@@ -28,19 +28,8 @@ void swapref( int &a, int &b)
 	cout<<"Values of a and b after swapping ref:"<<endl;
 	cout<<a<<endl<<b<<endl;
 }
-	/*
 
-void swap2( int *a, int *b)
-{
-	int *c;
-	*c=*a;
-	*a=*b;
-	*b=*c;
-	
-	cout<<"Values of a and b after swapping2:"<<endl;
-	cout<<a<<endl<<b<<endl;
-}
-*/
+
 int main()
 {
 	int i,j;
@@ -48,7 +37,7 @@ int main()
 	cout<<"enter the value of a and b"<<endl;
 	cin>>i>>j;
 	
-	//swap(i,j);
+	swap(i,j);
 	swapref(i,j);
 		
 	return 0;
