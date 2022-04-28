@@ -17,7 +17,7 @@ class A
 						sum=n1+n2;
 						cout<<"sum= "<<sum<<endl;
 				}
-				void math(int a, int b)				//created a same function named math but this time default arguments are present 
+				void math(int a, int b)				//created a same function named math but this time arguments are present 
 				{
 						mul=a*b;
 						cout<<"Multiplication= "<<mul<<endl;
