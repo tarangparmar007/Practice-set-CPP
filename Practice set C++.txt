@@ -1,0 +1,370 @@
+DRS. KIRAN & PALLAVI PATEL GLOBAL UNIVERSITY, VADODARA (KPGU)
+HoD Director Dean 
+List of Experiments
+Name of Laboratory: Programming for Problem Solving – II Laboratory
+
+1 LEARN CONCEPTS OF OOP
+
+1. Explain Object Oriented Paradigm with figure.
+2. Explain basic Concepts of OOP with example
+a. Class
+b. Object
+c. Data Encapsulation
+d. Data Abstraction
+e. Data Hiding
+f. Inheritance
+g. Polymorphism
+3. State various benefits of OOP
+
+2 CONCEPTS OF OOP USING C++
+
+1. What is C++?
+2. Give the Applications of C++.
+3. State and explain differences between C & C++.
+4. Draw and explain the structure of C++.
+5. Explain insertion (<<) and extraction (>>) operators of C++.
+6. What are manipulators? Explain endl and setw with example.
+7. W.A.P. to show the effects of manipulator endl and setw.
+8. What is type conversion? Explain with example.
+9. W.A.P. to show the effect of type conversion.
+10. What is dynamic initialization? Explain with example.
+11. W.A.P. to check the effect of dynamic initialization.
+12. Explain reference variable with example.
+13. W.A.P. that will show the effect of reference variable.
+14. WA function using variables as arguments to
+swap the values of a pair of integers usingcall by 
+value, call by address and call by reference.
+15. Explain the working of scope resolution operator (::) with
+example.
+
+3 DEFAULT ARGUMENTS AND FUNCTION OVERLOADING
+
+1. WAP to print following using default arguments
+repchar() // prints 45 times asterisks (*)
+repchar ('=) // prints 45 times (=)
+repchar('+',30) // prints 30 times (+)
+2. WAP to add two matrices using default argument.
+3. WA function called zerosmaller() uses two arguments. Use 
+return by reference to the function concept and set a smaller 
+value to 0.
+4. WAP that prints various types of data using function 
+overloading.
+5. WAP that prints a character on screen using function 
+overloading
+6. WA function power() to raise a number m to power n. The 
+function takes a double value for m and int value for n, and 
+returns the value (results) correctly. Use default argument 2 
+for n and m to make a function to calculate squares when 
+argument is not passed. WAP for the same.
+7. Write overloaded functions to convert ascii to int and ascii to 
+float.
+
+4 CLASS AND OBJECTS
+
+1. Create a class player with the following data members 
+name, age, runs, hi, lo, tsts, avg
+ Write member functions for each of the following
+a. To get the data
+b. To display the data
+c. To calculate the average of the player
+2. Create a class item with the following data members item 
+code, cost, qty, total_price
+ Write member functions for each of the following
+a. To get the data
+b. To display the data
+c. To calculate the total price of the item
+3. Create a class book with following data members 
+bookname, authorname, rate, qty 
+Write member functions for each of the following
+a. To get the data
+b. To display the data
+c. To calculate the total price of the book
+4. Create a time with following data members 
+ int h,m,s
+ Write member functions for each of the following
+a. To get the data in number of seconds
+b. To set the data in number of seconds
+c. To display the data
+d. To convert seconds into h, m, s
+5. Create a student with the following data members rollno, 
+name, marks[6],per, class
+ Write member functions for each of the following
+a. To get the data
+b. To display the data
+c. To calculate percentage
+d. To calculate class based on percentage
+6. Add constructors and destructors in above five examples.
+7. Write a program to count number of objects created for any
+class.
+
+5 ARRAY OF OBJECTS
+
+1. Create a class player with following data members 
+Player,name, Team name, Batting average, Read data for 10 
+payers, Use constructors and destructors properly and write 
+member function for each of the following
+a. To get the data
+b. To display the data
+c. Sort it according to the batting average
+d. Print a team wise sorted list of player’s name with their batting
+average
+2. Create class book with following data members book name, 
+author name, Qty, price
+ Read data for 10 books, Use constructors and 
+destructors properly and writemember function for
+each of the following
+a. To get the data
+b. To display the data
+c. To find total price (i.e. qty * price)
+d. Sort it according to the total price
+3. Declare a class catalog with following data memberstitle,
+author, year_of_publication, no_of_copies
+create array of 15 objects, Use constructors and
+destructors properly and write memberfunction for
+YES - -
+DRS. KIRAN & PALLAVI PATEL GLOBAL UNIVERSITY, VADODARA (KPGU)
+HoD Director Dean 
+each of the following
+a. To get the data
+b. To display the data
+c. To search the particular title, if exists then display that
+particular record
+4. Create a student with the following data membersrollno, name,
+marks[6], per, class
+Write member functions for each of the following
+a. To get the data
+b. To display the data
+c. To calculate percentage
+d. To calculate class based on percentage
+e. To sort the students percentagewise
+f. Use constructors and destructors
+5. Create class complex with following data members
+real and imaginary, Use constructors and destructors properly
+and
+for performing various arithmetic operations 
+write member functions for each of the
+following
+a. Addition function to add two complex no
+b. Subtraction function to add two complex no
+c. Multiplication function to add two complex no
+d. Division function to add two complex no
+e. Function to get data and to print data
+6. Create class matrix with following data members
+int array[size][size] (size can vary), Use
+constructors and destructors properly and for
+performing various arithmetic operations write
+member functions for each of thefollowing
+a. Addition function to add two matrices
+b. Subtraction function to add two matrices
+c. Multiplication function to add two matrices
+d. Division function to add two matrices 
+e. Function to get data and to print data
+7. Create a class date with following data member int day, month
+and year
+Use constructors and destructors properly and 
+write member functions for each of thefollowing
+e. To set the date
+f. To get the date
+g. To Print the date into dd/mm/yy format
+h. Nextday function, to increment the day by one,
+while incrementing day by one besure for two
+things
+i. Must increment month by one if day is 29, 28, 30 or 31 in a
+particular month
+ii. Must increment year accordingly
+8. Create a class distance with the following data membersint feet,
+float inches
+Use constructors and destructors properly and write member
+functions for the following
+i. To get the data
+j. To display the data
+k. Add two distance objects
+9. Create a class time with the following data membersint h,m,s 
+(input data in seconds only)
+Use constructors and destructors properly and 
+write member functions for each of thefollowing
+a. To get the data
+b. To display the data
+c. To convert the seconds into h, m ,s
+d. To add two time objects
+10. Create class string with the data member as char str[20],
+Use constructors and destructors properly and 
+write member functions for each of thefollowing
+l. To get the data
+m. To display the data
+n. To concatenate two string objects
+
+6 OPERATOR OVERLOADING
+
+1. Rewrite complex class (from assignment 5) using operator 
+overloading concept. i.e. overload (+,-,*,/)
+2. Rewrite matrix class (from assignment 5) using operator 
+overloading concept. i.e. overload (+,-,*,/)
+3. Rewrite date class (from assignment 5) using operator 
+overloading concept. i.e. overload (++) operator
+4. Create class string with following data member
+char str[20], for performing various comparison operations,
+overload >, <, ==, != operatorsfor two string objects.
+5. Create a class distance with following data members
+int feet
+float inches
+write an overloaded operators <, >, ==, != two compare two
+distance objects.
+6. Write a program to compare two date class objects by
+overloading <, >, ==,!= operators.
+7. Write a program to compare two time class objects by
+overloading <, >, ==,!= operators.
+8. Rewrite assignment 1&2(from assignment 6) using +=,-=, *= &
+/=operator overloading.
+9. Rewrite student class (from assignment 5) using comparison
+overloaded operators < & >.
+
+7 DATA CONVERSION
+
+1. WAP to convert from ton to Kg & gms and vice-versa. Create
+two classes for the same. Class tons (with ton as data member)
+and Class kilo (with kg and gms as data members)Use formula
+1 ton = 100 kg, 1kg = 1000gms
+2. Create a class time12 that store hh:mm:ss in 12 hour format
+along with am or pm, createanother class time24 that store
+time hh:mm:ss in 24 hour format. Write a Conversion function 
+to convert from one class object to another class object.
+3. Write a program to perform following operations on distance
+calss. 1)d1 = 2.0 and 2) float m = d1
+
+8 INHERITANCE AND CONTAINERSHIP
+
+1. Assume that Circle is defined using radius and Cylinder is
+defined using radius and height.
+Write a Circle class as base class and inherit the Cylinder class from
+it. Develop classes suchthat user can compute the area of Circle objects and 
+volume of Cylinder objects. Area of Circle is pie *radius*radius, while volume
+of Cylinder is pie*(radius * radius)*height.
+2. Consider a class network as shown in figure given
+below. The class Employee derives information from both 
+Account and Admin classes which in turn derive information 
+from the class Person. Define all the four classes and write a 
+program to create, update and display the information 
+contained in Employee objects.
+3. Define class employee which has fname and lname as data 
+member. Define following:
+1. Constructor for employee class with default arguments
+2. Print function
+Derive a class called hourly_worker (with wage and hours as data 
+members). Define following:
+1. Constructor for hourly_worker class with default 
+arguments
+2. Getpay() function that calculates and returns the pay and
+3. A print function
+4. Write a class Box to draw a rectangle. Derive a class NewBox
+to add a data member character.Use this character and draw a
+particular shape instead of lines.
+5. Create a class publication with title and price. Use necessary 
+constructors, destructors and functions. Derive two classes books 
+(member page_count), tape(member mins). Write
+necessary functions.
+6. Modify above program with two base classes. One as
+publication and create another sales (member totalsales). Now,
+Derive two classes books (member page_count), tape(member 
+mins) from publication and sales. Use necessary constructors, 
+destructors and functions.
+7. Define Inheritance. Explain public, private and protected
+inheritance with example.
+8. 
+Create classes as shown in figure. Write a program to create, update 
+and display information using inheritance 
+9. What is containership? Rewrite above program using 
+containership. 
+
+9. POINTERS
+
+1. Create a class Account. It has three data member account id,
+name and balance. Define function to assign value and display 
+value. Define function that search account number given by the 
+user. If account number exists, print detail of that account. Write 
+a program using array of pointers to the object. Declare at least 5
+account and print details.
+2. Create class Country with country name, capital and
+population as data member. Country name
+and capital should be defined as char *.
+3 . Write a program using array of pointers to the object.
+Read data at least for 5 countries and sort it country wise.
+4. Define and Discuss Pure Virtual Function
+5. What is pointer to void?
+6. Explain pointer to objects with example.
+
+10 COPY CONSTRUCTOR AND FRIEND FUNCTION
+
+1. Write a program for string class using copy constructor.
+2. Explain Friend function and its characteristics. Define a class
+matrix with an integer array of 3X3 as a data member. Define a
+friend function which adds two matrix objects and returns
+resultant matrix object.
+3. Explain and demonstrate, how virtual function to achieve
+runtime polymorphism?
+ Define Friend Function. Create two classes DM and DB which
+store the value of distances.
+ DM stores distances in meters and centimeters and DB in feet 
+and inches. Write a program that can read values for the class 
+objects and add one object of DM with another object of DB. Use 
+a friend function to carry out the addition operation. The object 
+stores the results may a DM object or DB object, depending on 
+the units in which the results are required. The display should 
+be in the format of feet and inches or meters and centimeters 
+depending on the object on display.
+ 1 Feet = 0.3048 Meter 1 Meter = 3.28 Feet
+ 1 Inch = 2.54 Centimeter 1 Centimeter = 0.3937 Inch
+
+11 FILE HANDLING
+
+1. Write a program using file handling concepts to read from
+“Country” and “capital” file and
+display data for the same.
+2. Write a program using file handling to demonstrate the 
+concepts of get() and put() functions
+3. WAP to read from one file and write it to another file.
+4. Write a program to demonstrate use of read() and write()
+functions for person class.
+5. WAP to copy contents of one file to another.
+6. WAP to create array of 10 numbers and write even and odd
+numbers into two different files.
+
+12 EXCEPTION HANDLING AND TEMPLATES
+
+1 What is this pointer? Write a complete program to illustrate
+the use of this pointer.
+2 What is Copy Constructor? Explain with example
+3 What is an exception? What are the advantages of using
+exception handling in a program? Illustrate
+C++ exception handling mechanism.
+4 What is Exception? Explain Exception Handling Mechanism.
+Write a program that demonstrates use
+of multiple catch. Add at least three catch blocks in your 
+Program.
+5 What is STL? Explain in detail
+6 What is Generic Programming? How it is implemented in C++.
+Write General format of class
+templates and function Template. Write program to 
+swap Number using Function Template.Function
+prototype is given below:
+void swap(int, int , float , float )
+Swap two integer number and swap two float number.
+[Summer-2013]
+7 Explain with the help of an example why templates are used in
+programming?
+
+13 
+
+1. WAP to implement stack
+2. WAP to implement Simple queue
+
+14
+
+ 1. Write OpenGL programs to draw triangle.
+2. Write OpenGL programs to draw tetrahedron.
+3. Write OpenGL programs to draw torus.
+
+15
+
+Any OEP problem selected by a group of students (3 to 4 from 
+the same batch only)
